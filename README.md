@@ -2,17 +2,18 @@ MTA_Daily_Ridership_Analysis
 Analyzing MTA Daily Ridership trends and forecasting future ridership patterns.
 
 My Time 
+
 Afnan Ibrahem Salah
+
 Christine Ayman Maher
+
 Rawan Rekapy Mohamed
+
 Donia Saied Tamer
+
 Mazen Mohamed Hassan
+
 Omar Ahmed Rashad
-
-
-
-
-
 
 
 📌 Project Overview
