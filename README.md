@@ -1,7 +1,7 @@
 MTA_Daily_Ridership_Analysis
 Analyzing MTA Daily Ridership trends and forecasting future ridership patterns.
 
-My Time 
+Team Members
 
 Afnan Ibrahem Salah
 
@@ -40,4 +40,4 @@ Comparison: Pre-pandemic vs. current ridership trends
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 Database: SQL
 Visualization Tools: Power BI, Tableau
-Machine Learning: Prophet, ARIMA, XGBoost (for forecasting)
+
